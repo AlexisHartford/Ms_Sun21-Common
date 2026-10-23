@@ -1,0 +1,12 @@
+{
+  "name": "com.mssun21.common",
+  "version": "1.0.0",
+  "displayName": "Ms_Sun21 Common",
+  "description": "Shared tools for Ms_Sun21 assets: the License Manager (Ms_Sun21 > License Manager) and Gumroad license checks.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Ms_Sun21",
+    "url": "https://6796613077946.gumroad.com"
+  },
+  "vpmDependencies": {}
+}
