@@ -1,0 +1,25 @@
+{
+  "name": "Ms_Sun21 Packages",
+  "id": "com.mssun21.vpm",
+  "url": "https://alexishartford.github.io/Ms_Sun21-Common/index.json",
+  "author": "Ms_Sun21",
+  "packages": {
+    "com.mssun21.common": {
+      "versions": {
+        "1.0.0": {
+          "name": "com.mssun21.common",
+          "displayName": "Ms_Sun21 Common",
+          "version": "1.0.0",
+          "unity": "2022.3",
+          "description": "Shared tools for Ms_Sun21 assets: the License Manager (Ms_Sun21 > License Manager) and Gumroad license checks.",
+          "author": {
+            "name": "Ms_Sun21",
+            "url": "https://mssun21.gumroad.com"
+          },
+          "vpmDependencies": {},
+          "url": "https://github.com/AlexisHartford/Ms_Sun21-Common/releases/download/1.0.0/com.mssun21.common-1.0.0.zip"
+        }
+      }
+    }
+  }
+}
