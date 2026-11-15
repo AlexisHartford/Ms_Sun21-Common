@@ -14,11 +14,10 @@
           "unity": "2022.3",
           "author": {
             "name": "Ms_Sun21",
-            "url": "https://6796613077946.gumroad.com"
+            "url": "https://mssun21.gumroad.com"
           },
           "vpmDependencies": {},
-          "url": "https://github.com/AlexisHartford/Ms_Sun21-Common/releases/download/1.1.0/com.mssun21.common-1.1.0.zip",
-          "zipSHA256": "627e6eb3ebfec34ba41f05bbafcdce3115caa216dc32f9213e3bbfb485500788"
+          "url": "https://github.com/AlexisHartford/Ms_Sun21-Common/releases/download/1.1.0/com.mssun21.common-1.1.0.zip"
         },
         "1.0.0": {
           "name": "com.mssun21.common",
